@@ -25,8 +25,8 @@
     "behavior": {
         "service-mapping": {
             "url": "",
-            "name": "jjacobson95MetaPathPredict_KBase",
-            "method": "run_jjacobson95MetaPathPredict_KBase",
+            "name": "MetaPathPredict_KBase",
+            "method": "run_MetaPathPredict",
             "input_mapping": [
                 {
                     "narrative_system_variable": "workspace",
