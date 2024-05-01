@@ -1,10 +1,10 @@
 #
 # define display information
 #
-name: Method Name Here
+name: MetaPathPredict
 
 tooltip: |
-    Perform some kind of method
+    Perform MetaPathPredict
 
 screenshots: []
 

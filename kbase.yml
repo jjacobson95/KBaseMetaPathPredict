@@ -1,8 +1,8 @@
 module-name:
-    MetaPathPredict_KBase
+    jjacobson95MetaPathPredict_KBase
 
 module-description:
-    A KBase module
+    MetaPathPredict_Beta
 
 service-language:
     python
